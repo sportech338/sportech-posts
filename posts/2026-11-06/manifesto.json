@@ -1,0 +1,94 @@
+[
+  {
+    "id": "story_10h",
+    "tipo": "story",
+    "hora": "10:00",
+    "legenda": "",
+    "media": [
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-06/story_10h.png"
+    ],
+    "arquivos": [
+      "story_10h.png"
+    ]
+  },
+  {
+    "id": "story_12h",
+    "tipo": "story",
+    "hora": "12:00",
+    "legenda": "",
+    "media": [
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-06/story_12h.png"
+    ],
+    "arquivos": [
+      "story_12h.png"
+    ]
+  },
+  {
+    "id": "story_18h",
+    "tipo": "story",
+    "hora": "18:00",
+    "legenda": "",
+    "media": [
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-06/story_18h.png"
+    ],
+    "arquivos": [
+      "story_18h.png"
+    ]
+  },
+  {
+    "id": "feed_10h",
+    "tipo": "carrossel",
+    "hora": "10:00",
+    "legenda": "Cooler tradicional ou CoolerBag? 🤔\n\nChega de carregar peso com as mãos até a areia. A CoolerBag vai nas costas e cabe o rolê todo:\n\n🎒 Mãos livres para o guarda-sol e a cadeira\n🧊 Até 22 latas na versão de 23 litros\n📱 Bolsos externos para celular e chaves\n\nTamanhos de 18, 20 e 23 litros, nas cores preta, azul e cinza.\n\n👉 Link na bio, com frete grátis para todo o Brasil.\n\n#coolerbag #sportech #praia #verao #mochilatermica #role",
+    "media": [
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-06/feed_10h_1.png",
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-06/feed_10h_2.png",
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-06/feed_10h_3.png",
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-06/feed_10h_4.png",
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-06/feed_10h_5.png",
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-06/feed_10h_6.png"
+    ],
+    "arquivos": [
+      "feed_10h_1.png",
+      "feed_10h_2.png",
+      "feed_10h_3.png",
+      "feed_10h_4.png",
+      "feed_10h_5.png",
+      "feed_10h_6.png"
+    ]
+  },
+  {
+    "id": "feed_17h",
+    "tipo": "post",
+    "hora": "17:00",
+    "legenda": "Bebida gelada aonde você for ☀️\n\nPraia, churrasco, trilha ou piscina: a CoolerBag leva tudo nas costas.\n\n💰 A partir de R$ 169,90\n🚚 Frete grátis para todo o Brasil\n💳 Até 12x ou 3% off no PIX\n\nQual cor combina com você: preta, azul ou cinza? Comenta aqui 👇\n\n#coolerbag #sportech #praia #verao #bebidagelada",
+    "media": [
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-06/feed_17h.png"
+    ],
+    "arquivos": [
+      "feed_17h.png"
+    ]
+  },
+  {
+    "id": "feed_20h",
+    "tipo": "carrossel",
+    "hora": "20:00",
+    "legenda": "4 dicas para a bebida ficar gelada por mais tempo 🧊\n\n1️⃣ Coloque as bebidas já geladas\n2️⃣ Capriche no gelo ou nas placas térmicas\n3️⃣ Abra só quando precisar e mantenha em pé\n4️⃣ Deixe na sombra\n\nSalva para o próximo rolê 📌\n\n👉 Link na bio\n\n#coolerbag #sportech #dicas #praia #verao",
+    "media": [
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-06/feed_20h_1.png",
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-06/feed_20h_2.png",
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-06/feed_20h_3.png",
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-06/feed_20h_4.png",
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-06/feed_20h_5.png",
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-06/feed_20h_6.png"
+    ],
+    "arquivos": [
+      "feed_20h_1.png",
+      "feed_20h_2.png",
+      "feed_20h_3.png",
+      "feed_20h_4.png",
+      "feed_20h_5.png",
+      "feed_20h_6.png"
+    ]
+  }
+]

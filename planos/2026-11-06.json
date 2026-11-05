@@ -1,0 +1,60 @@
+{
+  "data": "2026-11-06",
+  "dia_tipo": "A",
+  "temas": ["bom dia praia", "qual cor é a sua", "oferta gelo/mãos livres", "cooler tradicional x coolerbag", "oferta bebida gelada aonde for", "dicas para gelar mais"],
+  "publicacoes": [
+    {
+      "id": "story_10h", "tipo": "story", "hora": "10:00", "layout": "story_foto",
+      "foto": "homem_praia_costas", "foco": "20%",
+      "titulo": "Bom dia!", "destaque": "Praia hoje? ☀️",
+      "texto": "Já separou a sua CoolerBag com as bebidas geladas?",
+      "cta": "Link na bio 👆"
+    },
+    {
+      "id": "story_12h", "tipo": "story", "hora": "12:00", "layout": "story_cores",
+      "titulo": "Qual cor é", "destaque": "a sua?",
+      "subtitulos": ["a clássica", "cara de verão", "discreta e elegante"],
+      "cta": "Escolha a sua no link da bio 👆"
+    },
+    {
+      "id": "story_18h", "tipo": "story", "hora": "18:00", "layout": "story_oferta",
+      "foto": "gelo_caindo_mochila",
+      "titulo": "Gelo dentro,", "destaque": "mãos livres.",
+      "prefixo": "a partir de", "preco": "169,90",
+      "chips": ["Frete grátis", "Até 12x", "3% off no PIX"],
+      "cta": "Link na bio 👆"
+    },
+    {
+      "id": "feed_10h", "tipo": "carrossel", "hora": "10:00",
+      "legenda": "Cooler tradicional ou CoolerBag? 🤔\n\nChega de carregar peso com as mãos até a areia. A CoolerBag vai nas costas e cabe o rolê todo:\n\n🎒 Mãos livres para o guarda-sol e a cadeira\n🧊 Até 22 latas na versão de 23 litros\n📱 Bolsos externos para celular e chaves\n\nTamanhos de 18, 20 e 23 litros, nas cores preta, azul e cinza.\n\n👉 Link na bio, com frete grátis para todo o Brasil.\n\n#coolerbag #sportech #praia #verao #mochilatermica #role",
+      "slides": [
+        {"layout": "capa", "foto": "cooler_vs_coolerbag_praia", "titulo": "Cooler tradicional", "destaque": "ou CoolerBag?"},
+        {"layout": "foto_tag", "foto": "homem_praia_costas", "foco": "15%", "tag": "VANTAGEM 1", "titulo": "Vai nas costas", "texto": "Nada de carregar peso com as mãos até a areia. Elas ficam livres para o guarda-sol e a cadeira."},
+        {"layout": "foto_tag", "foto": "interior_latas", "tag": "VANTAGEM 2", "titulo": "Cabe o rolê todo", "texto": "Até 22 latas de 350 ml na versão de 23 litros. Tem também de 18 e 20 litros."},
+        {"layout": "foto_tag", "foto": "bolso_lateral_garrafa", "tag": "VANTAGEM 3", "titulo": "Tudo no lugar", "texto": "Bolsos externos para celular e chaves, e bolsos laterais para garrafinhas."},
+        {"layout": "tamanhos"},
+        {"layout": "cta", "titulo": "Escolha a sua cor", "destaque": "e bora pra praia."}
+      ]
+    },
+    {
+      "id": "feed_17h", "tipo": "post", "hora": "17:00", "layout": "post_oferta",
+      "foto": "tres_cores_praia",
+      "titulo": "Bebida gelada", "destaque": "aonde você for.",
+      "prefixo": "a partir de", "preco": "169,90",
+      "chips": ["Frete grátis", "Até 12x no cartão"],
+      "legenda": "Bebida gelada aonde você for ☀️\n\nPraia, churrasco, trilha ou piscina: a CoolerBag leva tudo nas costas.\n\n💰 A partir de R$ 169,90\n🚚 Frete grátis para todo o Brasil\n💳 Até 12x ou 3% off no PIX\n\nQual cor combina com você: preta, azul ou cinza? Comenta aqui 👇\n\n#coolerbag #sportech #praia #verao #bebidagelada"
+    },
+    {
+      "id": "feed_20h", "tipo": "carrossel", "hora": "20:00",
+      "legenda": "4 dicas para a bebida ficar gelada por mais tempo 🧊\n\n1️⃣ Coloque as bebidas já geladas\n2️⃣ Capriche no gelo ou nas placas térmicas\n3️⃣ Abra só quando precisar e mantenha em pé\n4️⃣ Deixe na sombra\n\nSalva para o próximo rolê 📌\n\n👉 Link na bio\n\n#coolerbag #sportech #dicas #praia #verao",
+      "slides": [
+        {"layout": "capa", "foto": "interior_latas", "titulo": "4 dicas para a bebida", "destaque": "ficar gelada por mais tempo", "texto": "Salve para o próximo rolê 📌"},
+        {"layout": "foto_numero", "numero": 1, "foto": "bebidas_gelo_close", "titulo": "Já coloque gelada", "texto": "Bebidas que entram geladas ficam frias por mais tempo do que as que entram em temperatura ambiente."},
+        {"layout": "foto_numero", "numero": 2, "foto": "gelo_caindo_mochila", "titulo": "Capriche no gelo", "texto": "Use gelo ou placas térmicas junto com as bebidas para manter a temperatura."},
+        {"layout": "foto_numero", "numero": 3, "foto": "preta_fundo_branco", "titulo": "Abra só quando precisar", "texto": "Cada vez que abre, o ar quente entra. Mantenha fechada e em pé."},
+        {"layout": "foto_numero", "numero": 4, "foto": "homem_praia_costas", "foco": "15%", "titulo": "Fique na sombra", "texto": "Debaixo do guarda-sol, a mochila esquenta bem menos do que no sol direto."},
+        {"layout": "cta", "titulo": "Agora é só", "destaque": "aproveitar."}
+      ]
+    }
+  ]
+}

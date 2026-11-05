@@ -1,0 +1,16 @@
+{
+  "_como_usar": "Cada foto já está recortada sem textos. Use o nome (sem .jpg) no campo 'foto' do plano. 'formato' ajuda a escolher o layout: retrato combina com story e foto alta; paisagem combina com topo de post e slide.",
+  "preta_fundo_branco": {"descricao": "Mochila preta aberta com bebidas e gelo, fundo branco", "formato": "retrato", "fundo_branco": true},
+  "azul_fundo_branco": {"descricao": "Mochila azul-marinho aberta com bebidas e gelo, fundo branco", "formato": "retrato", "fundo_branco": true},
+  "cinza_fundo_branco": {"descricao": "Mochila cinza aberta com bebidas e gelo, fundo branco", "formato": "retrato", "fundo_branco": true},
+  "bebidas_gelo_close": {"descricao": "Close nas garrafas, latas e gelo dentro do compartimento", "formato": "paisagem"},
+  "homem_praia_costas": {"descricao": "Homem de costas caminhando para a praia com a mochila preta nas costas", "formato": "paisagem"},
+  "gelo_caindo_mochila": {"descricao": "Gelo sendo despejado na mochila preta aberta cheia de bebidas", "formato": "retrato"},
+  "cooler_vs_coolerbag_praia": {"descricao": "Comparação na praia: amigos carregando cooler pesado x homem andando com a mochila nas costas", "formato": "paisagem"},
+  "interior_latas": {"descricao": "Vista de cima do interior térmico cheio de latas, garrafas e gelo", "formato": "retrato"},
+  "bolso_lateral_garrafa": {"descricao": "Mochila preta fechada com garrafa térmica no bolso lateral de tela", "formato": "retrato"},
+  "tres_cores_praia": {"descricao": "As 3 cores (azul, cinza e preta) abertas numa canga na praia de Copacabana, com frutas e chapéu", "formato": "paisagem"},
+  "preta_limao_gelo": {"descricao": "Mochila preta aberta com bebidas, limões e cubos de gelo em bancada de mármore", "formato": "retrato"},
+  "homem_mochila_sorrindo": {"descricao": "Homem sorrindo na praia com a mochila aberta cheia de bebidas nas costas", "formato": "retrato"},
+  "homem_cooler_pesado": {"descricao": "Homem fazendo esforço para carregar um cooler tradicional azul na areia", "formato": "retrato"}
+}
