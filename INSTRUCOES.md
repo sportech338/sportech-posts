@@ -24,8 +24,6 @@ O dono quer **tudo 100% automático**. Não peça aprovação, não deixe posts 
 3. Use o Metricool (getScheduledPosts, brandId 7908479, da data-alvo 00:00 até 23:59) para checar o que já está agendado. Se já houver publicações não-rascunho nos horários da rotina, **não duplique**. Agende só o que falta e explique isso no resumo.
 
 ### 2. Tipo do dia
-**Antes de tudo, leia `aprendizados.md`.** Se o MODO PLANO FREE estiver em vigor, ele define os dias, a quantidade, os formatos e o limite mensal, e substitui o restante desta seção.
-
 Calcule o **dia do ano** da data-alvo (1 a 366).
 - **Par = Dia A:** feed às 10h com **carrossel**, às 17h com **post** e às 20h com **carrossel**.
 - **Ímpar = Dia B:** feed às 10h com **post**, às 17h com **carrossel** e às 20h com **post**.
