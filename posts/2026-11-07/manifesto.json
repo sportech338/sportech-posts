@@ -1,0 +1,86 @@
+[
+  {
+    "id": "story_10h",
+    "tipo": "story",
+    "hora": "10:00",
+    "legenda": "",
+    "media": [
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-07/story_10h.png"
+    ],
+    "arquivos": [
+      "story_10h.png"
+    ]
+  },
+  {
+    "id": "story_12h",
+    "tipo": "story",
+    "hora": "12:00",
+    "legenda": "",
+    "media": [
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-07/story_12h.png"
+    ],
+    "arquivos": [
+      "story_12h.png"
+    ]
+  },
+  {
+    "id": "story_18h",
+    "tipo": "story",
+    "hora": "18:00",
+    "legenda": "",
+    "media": [
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-07/story_18h.png"
+    ],
+    "arquivos": [
+      "story_18h.png"
+    ]
+  },
+  {
+    "id": "feed_10h",
+    "tipo": "post",
+    "hora": "10:00",
+    "legenda": "Sábado tem churrasco? Então tem que ter bebida gelada 🔥🧊\n\nCom a CoolerBag você leva tudo nas costas, do mercado até a churrasqueira:\n\n🎒 Mãos livres para a carne e o carvão\n🧊 Compartimento térmico para bebidas e alimentos\n🍋 Espaço para o gelo, os limões e o que mais o rolê pedir\n📱 Bolsos externos para celular e chaves\n\nQuem é o assador oficial da sua turma? Marca ele aqui 👇\n\n👉 Link na bio\n\n#coolerbag #sportech #churrasco #fimdesemana #mochilatermica #bebidagelada",
+    "media": [
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-07/feed_10h.png"
+    ],
+    "arquivos": [
+      "feed_10h.png"
+    ]
+  },
+  {
+    "id": "feed_17h",
+    "tipo": "carrossel",
+    "hora": "17:00",
+    "legenda": "18, 20 ou 23 litros: qual CoolerBag combina com o seu rolê? 🎒\n\n🧊 18L: de 12 a 15 latas, por R$ 169,90\n🧊 20L: de 16 a 18 latas, por R$ 174,90\n🧊 23L: de 19 a 22 latas, por R$ 179,90\n\nVocê sabia? A 23L tem 5 litros a mais que a 18L por só R$ 10 a mais.\n\nE aí, qual tamanho é o seu? Comenta 18, 20 ou 23 👇\n\n👉 Link na bio, com frete grátis para todo o Brasil.\n\n*Estimativa com latas de 350 ml. Gelo e outros itens ocupam espaço.\n\n#coolerbag #sportech #mochilatermica #praia #verao #role",
+    "media": [
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-07/feed_17h_1.png",
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-07/feed_17h_2.png",
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-07/feed_17h_3.png",
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-07/feed_17h_4.png",
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-07/feed_17h_5.png",
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-07/feed_17h_6.png",
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-07/feed_17h_7.png"
+    ],
+    "arquivos": [
+      "feed_17h_1.png",
+      "feed_17h_2.png",
+      "feed_17h_3.png",
+      "feed_17h_4.png",
+      "feed_17h_5.png",
+      "feed_17h_6.png",
+      "feed_17h_7.png"
+    ]
+  },
+  {
+    "id": "feed_20h",
+    "tipo": "post",
+    "hora": "20:00",
+    "legenda": "Cada coisa no seu bolso 🎒\n\nA CoolerBag tem visual de mochila comum e é organizada por dentro e por fora:\n\n🧊 Compartimento térmico interno para bebidas e alimentos\n📱 Bolsos externos para celular, chaves e objetos pequenos\n💧 Bolsos laterais de tela para garrafinhas\n\nO que não pode faltar na sua mochila de rolê? Conta aqui 👇\n\n👉 Link na bio\n\n#coolerbag #sportech #mochilatermica #organizacao #praia #verao",
+    "media": [
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-07/feed_20h.png"
+    ],
+    "arquivos": [
+      "feed_20h.png"
+    ]
+  }
+]

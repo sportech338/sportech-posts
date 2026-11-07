@@ -1,0 +1,56 @@
+{
+  "data": "2026-11-07",
+  "dia_tipo": "B",
+  "temas": ["sábado de sol", "posso usar gelo? (FAQ)", "oferta fim de semana gelado", "churrasco de sábado", "qual tamanho é o seu (18/20/23L)", "bolsos e organização"],
+  "publicacoes": [
+    {
+      "id": "story_10h", "tipo": "story", "hora": "10:00", "layout": "story_frase",
+      "foto": "homem_praia_costas",
+      "titulo": "Sábado de sol", "destaque": "pede rolê ☀️",
+      "texto": "Bebidas geladas nas costas e as mãos livres para curtir.",
+      "cta": "Link na bio 👆"
+    },
+    {
+      "id": "story_12h", "tipo": "story", "hora": "12:00", "layout": "story_foto",
+      "foto": "gelo_caindo_mochila", "foco": "40%",
+      "titulo": "Posso colocar gelo?", "destaque": "Pode sim! 🧊",
+      "texto": "O revestimento interno impermeável ajuda a segurar a água do gelo.",
+      "cta": "Garanta a sua no link da bio 👆"
+    },
+    {
+      "id": "story_18h", "tipo": "story", "hora": "18:00", "layout": "story_oferta",
+      "foto": "azul_fundo_branco",
+      "titulo": "Fim de semana", "destaque": "bem gelado.",
+      "prefixo": "a partir de", "preco": "169,90",
+      "chips": ["Frete grátis", "Até 12x", "3% off no PIX"],
+      "cta": "Link na bio 👆"
+    },
+    {
+      "id": "feed_10h", "tipo": "post", "hora": "10:00", "layout": "post_foto",
+      "foto": "preta_limao_gelo", "foco": "45%",
+      "titulo": "Churrasco de sábado", "destaque": "com tudo gelado.",
+      "texto": "Do mercado até a churrasqueira, com as bebidas nas costas.",
+      "legenda": "Sábado tem churrasco? Então tem que ter bebida gelada 🔥🧊\n\nCom a CoolerBag você leva tudo nas costas, do mercado até a churrasqueira:\n\n🎒 Mãos livres para a carne e o carvão\n🧊 Compartimento térmico para bebidas e alimentos\n🍋 Espaço para o gelo, os limões e o que mais o rolê pedir\n📱 Bolsos externos para celular e chaves\n\nQuem é o assador oficial da sua turma? Marca ele aqui 👇\n\n👉 Link na bio\n\n#coolerbag #sportech #churrasco #fimdesemana #mochilatermica #bebidagelada"
+    },
+    {
+      "id": "feed_17h", "tipo": "carrossel", "hora": "17:00",
+      "legenda": "18, 20 ou 23 litros: qual CoolerBag combina com o seu rolê? 🎒\n\n🧊 18L: de 12 a 15 latas, por R$ 169,90\n🧊 20L: de 16 a 18 latas, por R$ 174,90\n🧊 23L: de 19 a 22 latas, por R$ 179,90\n\nVocê sabia? A 23L tem 5 litros a mais que a 18L por só R$ 10 a mais.\n\nE aí, qual tamanho é o seu? Comenta 18, 20 ou 23 👇\n\n👉 Link na bio, com frete grátis para todo o Brasil.\n\n*Estimativa com latas de 350 ml. Gelo e outros itens ocupam espaço.\n\n#coolerbag #sportech #mochilatermica #praia #verao #role",
+      "slides": [
+        {"layout": "capa", "foto": "bebidas_gelo_close", "titulo": "Qual tamanho", "destaque": "é o seu?", "texto": "18, 20 ou 23 litros. Arrasta para o lado 👉"},
+        {"layout": "foto_tag", "foto": "gelo_caindo_mochila", "foco": "40%", "tag": "18 LITROS", "titulo": "Rolê mais leve", "texto": "De 12 a 15 latas de 350 ml. Perfeita para uma tarde de praia ou piscina."},
+        {"layout": "foto_tag", "foto": "homem_praia_costas", "foco": "20%", "tag": "20 LITROS", "titulo": "O meio-termo", "texto": "De 16 a 18 latas de 350 ml para o rolê com a galera."},
+        {"layout": "foto_tag", "foto": "homem_mochila_sorrindo", "foco": "20%", "tag": "23 LITROS", "titulo": "Cabe o rolê todo", "texto": "De 19 a 22 latas de 350 ml. A maior da linha."},
+        {"layout": "texto", "fundo": "claro", "titulo": "Você sabia?", "destaque": "23L por só R$ 10 a mais", "texto": "São 5 litros a mais que a 18L: de R$ 169,90 para R$ 179,90."},
+        {"layout": "tamanhos"},
+        {"layout": "cta", "titulo": "Escolha o seu tamanho", "destaque": "e bora pro rolê."}
+      ]
+    },
+    {
+      "id": "feed_20h", "tipo": "post", "hora": "20:00", "layout": "post_frase",
+      "foto": "bolso_lateral_garrafa",
+      "titulo": "Cada coisa", "destaque": "no seu bolso.",
+      "texto": "Celular e chaves nos bolsos externos. Garrafinha no bolso lateral de tela.",
+      "legenda": "Cada coisa no seu bolso 🎒\n\nA CoolerBag tem visual de mochila comum e é organizada por dentro e por fora:\n\n🧊 Compartimento térmico interno para bebidas e alimentos\n📱 Bolsos externos para celular, chaves e objetos pequenos\n💧 Bolsos laterais de tela para garrafinhas\n\nO que não pode faltar na sua mochila de rolê? Conta aqui 👇\n\n👉 Link na bio\n\n#coolerbag #sportech #mochilatermica #organizacao #praia #verao"
+    }
+  ]
+}
