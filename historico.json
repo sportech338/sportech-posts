@@ -5,12 +5,108 @@
       "data": "2026-11-06",
       "dia_tipo": "A",
       "publicacoes": [
-        {"hora": "10:00", "tipo": "story", "layout": "story_foto", "tema": "bom dia, praia hoje", "foto": "homem_praia_costas", "metricool_id": 418357467},
-        {"hora": "12:00", "tipo": "story", "layout": "story_cores", "tema": "qual cor é a sua", "foto": "preta/azul/cinza_fundo_branco", "metricool_id": 418357486},
-        {"hora": "18:00", "tipo": "story", "layout": "story_oferta", "tema": "oferta: gelo dentro, mãos livres", "foto": "gelo_caindo_mochila", "metricool_id": 418357509},
-        {"hora": "10:00", "tipo": "carrossel", "layout": "capa+foto_tag+tamanhos+cta", "tema": "cooler tradicional x coolerbag", "foto": "cooler_vs_coolerbag_praia", "metricool_id": 418357568},
-        {"hora": "17:00", "tipo": "post", "layout": "post_oferta", "tema": "oferta: bebida gelada aonde você for", "foto": "tres_cores_praia", "metricool_id": 418357598},
-        {"hora": "20:00", "tipo": "carrossel", "layout": "capa+foto_numero+cta", "tema": "4 dicas para gelar mais", "foto": "interior_latas", "metricool_id": 418357648}
+        {
+          "hora": "10:00",
+          "tipo": "story",
+          "layout": "story_foto",
+          "tema": "bom dia, praia hoje",
+          "foto": "homem_praia_costas",
+          "metricool_id": 418357467
+        },
+        {
+          "hora": "12:00",
+          "tipo": "story",
+          "layout": "story_cores",
+          "tema": "qual cor é a sua",
+          "foto": "preta/azul/cinza_fundo_branco",
+          "metricool_id": 418357486
+        },
+        {
+          "hora": "18:00",
+          "tipo": "story",
+          "layout": "story_oferta",
+          "tema": "oferta: gelo dentro, mãos livres",
+          "foto": "gelo_caindo_mochila",
+          "metricool_id": 418357509
+        },
+        {
+          "hora": "10:00",
+          "tipo": "carrossel",
+          "layout": "capa+foto_tag+tamanhos+cta",
+          "tema": "cooler tradicional x coolerbag",
+          "foto": "cooler_vs_coolerbag_praia",
+          "metricool_id": 418357568
+        },
+        {
+          "hora": "17:00",
+          "tipo": "post",
+          "layout": "post_oferta",
+          "tema": "oferta: bebida gelada aonde você for",
+          "foto": "tres_cores_praia",
+          "metricool_id": 418357598
+        },
+        {
+          "hora": "20:00",
+          "tipo": "carrossel",
+          "layout": "capa+foto_numero+cta",
+          "tema": "4 dicas para gelar mais",
+          "foto": "interior_latas",
+          "metricool_id": 418357648
+        }
+      ]
+    },
+    {
+      "data": "2026-11-07",
+      "dia_tipo": "B",
+      "publicacoes": [
+        {
+          "hora": "10:00",
+          "tipo": "story",
+          "layout": "story_frase",
+          "tema": "sábado de sol pede rolê",
+          "foto": "homem_praia_costas",
+          "metricool_id": 419804772
+        },
+        {
+          "hora": "12:00",
+          "tipo": "story",
+          "layout": "story_foto",
+          "tema": "FAQ: posso colocar gelo?",
+          "foto": "gelo_caindo_mochila",
+          "metricool_id": 419804783
+        },
+        {
+          "hora": "18:00",
+          "tipo": "story",
+          "layout": "story_oferta",
+          "tema": "oferta: fim de semana bem gelado",
+          "foto": "azul_fundo_branco",
+          "metricool_id": 419804792
+        },
+        {
+          "hora": "10:00",
+          "tipo": "post",
+          "layout": "post_foto",
+          "tema": "churrasco de sábado",
+          "foto": "preta_limao_gelo",
+          "metricool_id": 419804936
+        },
+        {
+          "hora": "17:00",
+          "tipo": "carrossel",
+          "layout": "capa+foto_tag+texto+tamanhos+cta",
+          "tema": "qual tamanho é o seu (18/20/23L, 23L por R$10 a mais)",
+          "foto": "bebidas_gelo_close",
+          "metricool_id": 419804942
+        },
+        {
+          "hora": "20:00",
+          "tipo": "post",
+          "layout": "post_frase",
+          "tema": "bolsos e organização",
+          "foto": "bolso_lateral_garrafa",
+          "metricool_id": 419804947
+        }
       ]
     }
   ]
