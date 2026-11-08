@@ -1,0 +1,94 @@
+[
+  {
+    "id": "story_10h",
+    "tipo": "story",
+    "hora": "10:00",
+    "legenda": "",
+    "media": [
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-08/story_10h.png"
+    ],
+    "arquivos": [
+      "story_10h.png"
+    ]
+  },
+  {
+    "id": "story_12h",
+    "tipo": "story",
+    "hora": "12:00",
+    "legenda": "",
+    "media": [
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-08/story_12h.png"
+    ],
+    "arquivos": [
+      "story_12h.png"
+    ]
+  },
+  {
+    "id": "story_18h",
+    "tipo": "story",
+    "hora": "18:00",
+    "legenda": "",
+    "media": [
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-08/story_18h.png"
+    ],
+    "arquivos": [
+      "story_18h.png"
+    ]
+  },
+  {
+    "id": "feed_10h",
+    "tipo": "carrossel",
+    "hora": "10:00",
+    "legenda": "Domingo de praia? Salva esse checklist antes de sair de casa 📌☀️\n\n🧴 Protetor solar\n⛱️ Guarda-sol e cadeira\n🍉 Lanches em embalagens fechadas\n🧊 Bebidas já geladas e bastante gelo\n🎒 A CoolerBag nas costas, com as mãos livres para o resto\n\nO que nunca falta na sua bolsa de praia? Conta aqui 👇\n\n👉 Link na bio\n\n#coolerbag #sportech #praia #domingo #checklist #verao #mochilatermica",
+    "media": [
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-08/feed_10h_1.png",
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-08/feed_10h_2.png",
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-08/feed_10h_3.png",
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-08/feed_10h_4.png",
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-08/feed_10h_5.png",
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-08/feed_10h_6.png"
+    ],
+    "arquivos": [
+      "feed_10h_1.png",
+      "feed_10h_2.png",
+      "feed_10h_3.png",
+      "feed_10h_4.png",
+      "feed_10h_5.png",
+      "feed_10h_6.png"
+    ]
+  },
+  {
+    "id": "feed_17h",
+    "tipo": "post",
+    "hora": "17:00",
+    "legenda": "Nota 5,0 em 75 avaliações ⭐⭐⭐⭐⭐\n\nQuem já levou a CoolerBag para o rolê aprovou:\n\n🎒 Visual de mochila comum, com compartimento térmico por dentro\n🙌 Vai nas costas e deixa as mãos livres\n🎨 3 cores: preta, azul-marinho e cinza\n🚚 Frete grátis para todo o Brasil, a partir de R$ 169,90\n\nJá tem a sua? Conta pra gente qual cor você escolheu 👇\n\n👉 Link na bio\n\n#coolerbag #sportech #mochilatermica #avaliacao #verao #bebidagelada",
+    "media": [
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-08/feed_17h.png"
+    ],
+    "arquivos": [
+      "feed_17h.png"
+    ]
+  },
+  {
+    "id": "feed_20h",
+    "tipo": "carrossel",
+    "hora": "20:00",
+    "legenda": "As perguntas que mais recebemos sobre a CoolerBag 🤔🎒\n\n🧊 Posso usar gelo? Pode! O revestimento interno impermeável ajuda a segurar a água do gelo.\n🥪 Lanche pode? Pode, em embalagens fechadas.\n🧽 Como limpar? Seque bem por dentro e passe um pano úmido por fora.\n📦 O que vem na caixa? A mochila CoolerBag. Bebidas e gelo ficam por sua conta.\n\nFicou alguma dúvida? Pergunta aqui nos comentários 👇\n\n👉 Link na bio\n\n#coolerbag #sportech #mochilatermica #duvidas #faq #verao",
+    "media": [
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-08/feed_20h_1.png",
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-08/feed_20h_2.png",
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-08/feed_20h_3.png",
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-08/feed_20h_4.png",
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-08/feed_20h_5.png",
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-08/feed_20h_6.png"
+    ],
+    "arquivos": [
+      "feed_20h_1.png",
+      "feed_20h_2.png",
+      "feed_20h_3.png",
+      "feed_20h_4.png",
+      "feed_20h_5.png",
+      "feed_20h_6.png"
+    ]
+  }
+]
