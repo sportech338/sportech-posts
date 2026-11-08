@@ -108,6 +108,60 @@
           "metricool_id": 419804947
         }
       ]
+    },
+    {
+      "data": "2026-11-08",
+      "dia_tipo": "A",
+      "publicacoes": [
+        {
+          "hora": "10:00",
+          "tipo": "story",
+          "layout": "story_frase",
+          "tema": "cooler pesado nunca mais",
+          "foto": "homem_cooler_pesado",
+          "metricool_id": 420599115
+        },
+        {
+          "hora": "12:00",
+          "tipo": "story",
+          "layout": "story_cores",
+          "tema": "domingo: qual cor é a sua",
+          "foto": "preta/azul/cinza_fundo_branco",
+          "metricool_id": 420599125
+        },
+        {
+          "hora": "18:00",
+          "tipo": "story",
+          "layout": "story_oferta",
+          "tema": "oferta: verão chegando, garanta a sua",
+          "foto": "preta_fundo_branco",
+          "metricool_id": 420599133
+        },
+        {
+          "hora": "10:00",
+          "tipo": "carrossel",
+          "layout": "capa+foto_numero+cta",
+          "tema": "checklist da praia de domingo",
+          "foto": "homem_mochila_sorrindo",
+          "metricool_id": 420599141
+        },
+        {
+          "hora": "17:00",
+          "tipo": "post",
+          "layout": "post_oferta",
+          "tema": "prova social: nota 5,0 em 75 avaliações",
+          "foto": "cinza_fundo_branco",
+          "metricool_id": 420599149
+        },
+        {
+          "hora": "20:00",
+          "tipo": "carrossel",
+          "layout": "capa+texto+cta",
+          "tema": "perguntas frequentes (gelo, lanche, limpeza, o que vem na caixa)",
+          "foto": "interior_latas",
+          "metricool_id": 420599158
+        }
+      ]
     }
   ]
 }
