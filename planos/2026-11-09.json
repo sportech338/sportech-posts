@@ -1,0 +1,137 @@
+{
+  "data": "2026-11-09",
+  "dia_tipo": "B",
+  "temas": [
+    "segunda com cara de fim de semana",
+    "você sabia: 23L por R$ 10 a mais",
+    "oferta: 3% off no Pix",
+    "mãos livres e vai nas costas",
+    "5 rolês que pedem uma CoolerBag",
+    "fim de ano chegando: férias e réveillon"
+  ],
+  "publicacoes": [
+    {
+      "id": "story_10h",
+      "tipo": "story",
+      "hora": "10:00",
+      "layout": "story_foto",
+      "foto": "homem_mochila_sorrindo",
+      "foco": "25%",
+      "titulo": "Segunda com cara",
+      "destaque": "de fim de semana? 😎",
+      "texto": "Já dá para ir planejando o próximo rolê com a galera.",
+      "cta": "Link na bio 👆"
+    },
+    {
+      "id": "story_12h",
+      "tipo": "story",
+      "hora": "12:00",
+      "layout": "story_frase",
+      "foto": "bebidas_gelo_close",
+      "titulo": "Você sabia?",
+      "destaque": "23L por só R$ 10 a mais",
+      "texto": "São 5 litros a mais que a 18L: de R$ 169,90 para R$ 179,90.",
+      "cta": "Escolha a sua no link da bio 👆"
+    },
+    {
+      "id": "story_18h",
+      "tipo": "story",
+      "hora": "18:00",
+      "layout": "story_oferta",
+      "foto": "cinza_fundo_branco",
+      "titulo": "Pagou no Pix,",
+      "destaque": "ganhou 3% off.",
+      "prefixo": "a partir de",
+      "preco": "169,90",
+      "chips": [
+        "3% off no PIX",
+        "Frete grátis",
+        "Até 12x"
+      ],
+      "cta": "Garanta a sua no link da bio 👆"
+    },
+    {
+      "id": "feed_10h",
+      "tipo": "post",
+      "hora": "10:00",
+      "layout": "post_foto",
+      "foto": "homem_praia_costas",
+      "foco": "20%",
+      "titulo": "Mãos livres,",
+      "destaque": "bebida nas costas.",
+      "texto": "A CoolerBag tem cara de mochila comum e leva o rolê inteiro gelado.",
+      "legenda": "Mãos livres e bebida gelada nas costas 🎒🧊\n\nCom a CoolerBag o rolê fica mais leve:\n\n🙌 Vai nas costas e deixa as mãos livres para a cadeira, o guarda-sol e a galera\n🎒 Visual de mochila comum, com compartimento térmico por dentro\n📱 Bolsos externos para celular e chaves\n💧 Bolsos laterais de tela para a garrafinha\n\nO que você leva nas mãos quando as bebidas vão nas costas? Conta aqui 👇\n\n👉 Link na bio\n\n#coolerbag #sportech #mochilatermica #maoslivres #praia #verao"
+    },
+    {
+      "id": "feed_17h",
+      "tipo": "carrossel",
+      "hora": "17:00",
+      "legenda": "5 rolês que ficam melhores com bebida gelada nas costas 🎒☀️\n\n🏖️ Praia: nada de cooler pesado na areia\n🏊 Piscina: tudo gelado sem sair da água\n🥾 Trilha: mãos livres e garrafinha no bolso lateral\n🚗 Viagem de carro: as bebidas vão junto na parada\n⚽ Jogo com a galera: geladinha garantida até o apito final\n\nQual desses é o seu rolê preferido? Comenta aqui 👇\n\n👉 Link na bio\n\n#coolerbag #sportech #mochilatermica #praia #trilha #viagem #verao",
+      "slides": [
+        {
+          "layout": "capa",
+          "foto": "tres_cores_praia",
+          "titulo": "5 rolês que pedem",
+          "destaque": "uma CoolerBag 🎒",
+          "texto": "Arrasta para o lado 👉"
+        },
+        {
+          "layout": "foto_tag",
+          "foto": "cooler_vs_coolerbag_praia",
+          "tag": "PRAIA",
+          "titulo": "Areia sem sofrimento",
+          "texto": "Nada de cooler pesado. As bebidas vão nas costas e as mãos ficam livres."
+        },
+        {
+          "layout": "foto_tag",
+          "foto": "interior_latas",
+          "foco": "50%",
+          "tag": "PISCINA",
+          "titulo": "Tudo gelado na beira",
+          "texto": "Bebidas já geladas e bastante gelo no compartimento térmico."
+        },
+        {
+          "layout": "foto_tag",
+          "foto": "bolso_lateral_garrafa",
+          "foco": "40%",
+          "tag": "TRILHA",
+          "titulo": "Mãos livres na subida",
+          "texto": "Garrafinha no bolso lateral de tela e o resto nas costas."
+        },
+        {
+          "layout": "foto_tag",
+          "foto": "gelo_caindo_mochila",
+          "foco": "40%",
+          "tag": "VIAGEM DE CARRO",
+          "titulo": "Parada com geladinha",
+          "texto": "Leve as bebidas e os lanches em embalagens fechadas para a estrada."
+        },
+        {
+          "layout": "foto_tag",
+          "foto": "preta_limao_gelo",
+          "foco": "40%",
+          "tag": "JOGO",
+          "titulo": "Até o apito final",
+          "texto": "Refri, água ou cerveja geladinha para assistir com a galera."
+        },
+        {
+          "layout": "cta",
+          "titulo": "Qual é o seu rolê?",
+          "destaque": "Leve a sua junto.",
+          "foto": "homem_mochila_sorrindo"
+        }
+      ]
+    },
+    {
+      "id": "feed_20h",
+      "tipo": "post",
+      "hora": "20:00",
+      "layout": "post_frase",
+      "foto": "azul_fundo_branco",
+      "titulo": "Férias e réveillon",
+      "destaque": "pedem bebida gelada.",
+      "texto": "O fim de ano está chegando. Garanta a sua CoolerBag antes do rolê.",
+      "legenda": "O fim de ano está chegando 🎆☀️\n\nFérias, viagem, praia e réveillon com a galera pedem bebida gelada e mãos livres:\n\n🎒 Compartimento térmico para bebidas e alimentos\n🎨 3 cores: preta, azul-marinho e cinza\n🚚 Frete grátis para todo o Brasil\n💳 A partir de R$ 169,90, em até 12x ou com 3% off no Pix\n\nOnde você vai passar a virada? Conta aqui 👇\n\n👉 Link na bio\n\n#coolerbag #sportech #mochilatermica #reveillon #ferias #fimdeano #verao"
+    }
+  ]
+}
