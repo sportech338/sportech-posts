@@ -162,6 +162,60 @@
           "metricool_id": 420599158
         }
       ]
+    },
+    {
+      "data": "2026-11-09",
+      "dia_tipo": "B",
+      "publicacoes": [
+        {
+          "hora": "10:00",
+          "tipo": "story",
+          "layout": "story_foto",
+          "tema": "segunda com cara de fim de semana",
+          "foto": "homem_mochila_sorrindo",
+          "metricool_id": 421564809
+        },
+        {
+          "hora": "12:00",
+          "tipo": "story",
+          "layout": "story_frase",
+          "tema": "você sabia: 23L por só R$ 10 a mais",
+          "foto": "bebidas_gelo_close",
+          "metricool_id": 421564832
+        },
+        {
+          "hora": "18:00",
+          "tipo": "story",
+          "layout": "story_oferta",
+          "tema": "oferta: 3% off no Pix",
+          "foto": "cinza_fundo_branco",
+          "metricool_id": 421564848
+        },
+        {
+          "hora": "10:00",
+          "tipo": "post",
+          "layout": "post_foto",
+          "tema": "mãos livres e vai nas costas",
+          "foto": "homem_praia_costas",
+          "metricool_id": 421564877
+        },
+        {
+          "hora": "17:00",
+          "tipo": "carrossel",
+          "layout": "capa+foto_tag+cta",
+          "tema": "5 rolês que pedem uma CoolerBag (praia, piscina, trilha, viagem, jogo)",
+          "foto": "tres_cores_praia",
+          "metricool_id": 421564910
+        },
+        {
+          "hora": "20:00",
+          "tipo": "post",
+          "layout": "post_frase",
+          "tema": "fim de ano chegando: férias e réveillon",
+          "foto": "azul_fundo_branco",
+          "metricool_id": 421564932
+        }
+      ]
     }
   ]
 }
