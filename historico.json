@@ -216,6 +216,60 @@
           "metricool_id": 421564932
         }
       ]
+    },
+    {
+      "data": "2026-11-10",
+      "dia_tipo": "A",
+      "publicacoes": [
+        {
+          "hora": "10:00",
+          "tipo": "story",
+          "layout": "story_foto",
+          "tema": "terça quente pede bebida gelada",
+          "foto": "gelo_caindo_mochila",
+          "metricool_id": 422919756
+        },
+        {
+          "hora": "12:00",
+          "tipo": "story",
+          "layout": "story_frase",
+          "tema": "bolsos: celular, chaves e garrafinha no lugar",
+          "foto": "bolso_lateral_garrafa",
+          "metricool_id": 422919781
+        },
+        {
+          "hora": "18:00",
+          "tipo": "story",
+          "layout": "story_oferta",
+          "tema": "oferta: frete grátis para todo o Brasil",
+          "foto": "azul_fundo_branco",
+          "metricool_id": 422919797
+        },
+        {
+          "hora": "10:00",
+          "tipo": "carrossel",
+          "layout": "capa+foto_tag+cta",
+          "tema": "checklist do dia de piscina (salvável)",
+          "foto": "preta_limao_gelo",
+          "metricool_id": 422919830
+        },
+        {
+          "hora": "17:00",
+          "tipo": "post",
+          "layout": "post_foto",
+          "tema": "por fora mochila, por dentro térmica",
+          "foto": "homem_mochila_sorrindo",
+          "metricool_id": 422919854
+        },
+        {
+          "hora": "20:00",
+          "tipo": "carrossel",
+          "layout": "capa+foto_tag+texto+cta",
+          "tema": "qual cor é a sua: preta, azul ou cinza",
+          "foto": "bebidas_gelo_close",
+          "metricool_id": 422919893
+        }
+      ]
     }
   ]
 }
