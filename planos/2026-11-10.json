@@ -1,0 +1,167 @@
+{
+  "data": "2026-11-10",
+  "dia_tipo": "A",
+  "temas": [
+    "terça quente pede bebida gelada",
+    "bolsos: celular, chaves e garrafinha no lugar",
+    "oferta: frete grátis e até 12x",
+    "checklist do dia de piscina",
+    "por fora mochila, por dentro térmica",
+    "qual cor é a sua: preta, azul ou cinza"
+  ],
+  "publicacoes": [
+    {
+      "id": "story_10h",
+      "tipo": "story",
+      "hora": "10:00",
+      "layout": "story_foto",
+      "foto": "gelo_caindo_mochila",
+      "foco": "40%",
+      "titulo": "Terça quente pede",
+      "destaque": "bebida bem gelada 🧊",
+      "texto": "Capriche no gelo e leve tudo nas costas.",
+      "cta": "Link na bio 👆"
+    },
+    {
+      "id": "story_12h",
+      "tipo": "story",
+      "hora": "12:00",
+      "layout": "story_frase",
+      "foto": "bolso_lateral_garrafa",
+      "titulo": "Celular, chaves e garrafinha",
+      "destaque": "cada um no lugar 🎒",
+      "texto": "Bolsos externos para os objetos pequenos e bolsos laterais de tela para a garrafinha.",
+      "cta": "Conheça no link da bio 👆"
+    },
+    {
+      "id": "story_18h",
+      "tipo": "story",
+      "hora": "18:00",
+      "layout": "story_oferta",
+      "foto": "azul_fundo_branco",
+      "titulo": "Frete grátis",
+      "destaque": "para todo o Brasil.",
+      "prefixo": "a partir de",
+      "preco": "169,90",
+      "chips": [
+        "Frete grátis",
+        "Até 12x",
+        "3% off no PIX"
+      ],
+      "cta": "Garanta a sua no link da bio 👆"
+    },
+    {
+      "id": "feed_10h",
+      "tipo": "carrossel",
+      "hora": "10:00",
+      "legenda": "Checklist do dia de piscina 🏊☀️\n\nAntes de sair de casa, confere:\n\n🧊 Bebidas já geladas e bastante gelo ou placas térmicas\n🥪 Lanches em embalagens fechadas no compartimento térmico\n💧 Garrafinha de água no bolso lateral de tela\n📱 Celular e chaves nos bolsos externos\n🎒 Tudo nas costas e as mãos livres para a toalha\n\nSalva para não esquecer 📌\n\nPiscina 🏊 ou praia 🏖️? Responde com o emoji 👇\n\n👉 Link na bio\n\n#coolerbag #sportech #mochilatermica #piscina #diadepiscina #verao #checklist",
+      "slides": [
+        {
+          "layout": "capa",
+          "foto": "preta_limao_gelo",
+          "foco": "45%",
+          "titulo": "Checklist do dia",
+          "destaque": "de piscina 🏊",
+          "texto": "Arrasta para o lado 👉"
+        },
+        {
+          "layout": "foto_tag",
+          "foto": "gelo_caindo_mochila",
+          "foco": "40%",
+          "tag": "1. BEBIDAS",
+          "titulo": "Já geladas e com gelo",
+          "texto": "Coloque tudo gelado e capriche no gelo ou nas placas térmicas."
+        },
+        {
+          "layout": "foto_tag",
+          "foto": "bebidas_gelo_close",
+          "tag": "2. LANCHES",
+          "titulo": "Em embalagens fechadas",
+          "texto": "Frutas e petiscos vão junto com as bebidas no compartimento térmico."
+        },
+        {
+          "layout": "foto_tag",
+          "foto": "bolso_lateral_garrafa",
+          "foco": "40%",
+          "tag": "3. ÁGUA",
+          "titulo": "Garrafinha no bolso lateral",
+          "texto": "O bolso de tela segura a garrafinha sem abrir a mochila."
+        },
+        {
+          "layout": "foto_tag",
+          "foto": "preta_fundo_branco",
+          "tag": "4. CELULAR E CHAVES",
+          "titulo": "Nos bolsos externos",
+          "texto": "Os objetos pequenos ficam à mão e fora do gelo."
+        },
+        {
+          "layout": "cta",
+          "titulo": "Piscina 🏊 ou praia 🏖️?",
+          "destaque": "Salva para não esquecer 📌",
+          "foto": "homem_mochila_sorrindo"
+        }
+      ]
+    },
+    {
+      "id": "feed_17h",
+      "tipo": "post",
+      "hora": "17:00",
+      "layout": "post_foto",
+      "foto": "homem_mochila_sorrindo",
+      "foco": "25%",
+      "titulo": "Por fora, mochila.",
+      "destaque": "Por dentro, tudo gelado.",
+      "texto": "Visual de mochila comum, com compartimento térmico para bebidas e alimentos.",
+      "legenda": "Parece mochila comum. Mas abre para ver 🎒🧊\n\nA CoolerBag foi feita para o rolê:\n\n🧊 Compartimento térmico interno para bebidas e alimentos\n💧 Revestimento impermeável que ajuda a segurar a água do gelo\n🙌 Vai nas costas e deixa as mãos livres\n🚚 Frete grátis, a partir de R$ 169,90\n\nVocê levaria para onde: praia 🏖️, churrasco 🍖 ou jogo ⚽? Responde com o emoji 👇\n\n👉 Link na bio\n\n#coolerbag #sportech #mochilatermica #bolsatermica #verao #role"
+    },
+    {
+      "id": "feed_20h",
+      "tipo": "carrossel",
+      "hora": "20:00",
+      "legenda": "Preta, azul-marinho ou cinza: qual combina com o seu rolê? 🎨\n\nAs 3 cores têm o mesmo compartimento térmico por dentro:\n\n⚫ Preta: a clássica, combina com tudo\n🔵 Azul-marinho: cara de verão\n⚪ Cinza: discreta e elegante\n🟠 Todas com a faixa laranja na frente\n\nComenta só a cor: preta, azul ou cinza 👇\n\n👉 Link na bio\n\n#coolerbag #sportech #mochilatermica #verao #praia #estilo",
+      "slides": [
+        {
+          "layout": "capa",
+          "foto": "bebidas_gelo_close",
+          "titulo": "3 cores, o mesmo",
+          "destaque": "gelado por dentro 🎨",
+          "texto": "Arrasta e escolha a sua 👉"
+        },
+        {
+          "layout": "foto_tag",
+          "foto": "preta_fundo_branco",
+          "tag": "PRETA",
+          "titulo": "A clássica",
+          "texto": "Combina com qualquer rolê, da praia ao estádio."
+        },
+        {
+          "layout": "foto_tag",
+          "foto": "azul_fundo_branco",
+          "tag": "AZUL-MARINHO",
+          "titulo": "Cara de verão",
+          "texto": "Para quem gosta de cor sem exagero."
+        },
+        {
+          "layout": "foto_tag",
+          "foto": "cinza_fundo_branco",
+          "tag": "CINZA",
+          "titulo": "Discreta e elegante",
+          "texto": "Passa fácil por mochila do dia a dia."
+        },
+        {
+          "layout": "texto",
+          "fundo": "claro",
+          "titulo": "Detalhe de todas:",
+          "destaque": "a faixa laranja 🟠",
+          "texto": "Mesmo compartimento térmico e os mesmos bolsos nas 3 cores."
+        },
+        {
+          "layout": "cta",
+          "titulo": "Preta, azul ou cinza?",
+          "destaque": "Comenta a sua cor 👇",
+          "foto": "tres_cores_praia"
+        }
+      ]
+    }
+  ]
+}
