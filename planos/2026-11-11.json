@@ -1,0 +1,129 @@
+{
+  "data": "2026-11-11",
+  "dia_tipo": "B",
+  "temas": [
+    "ainda carregando cooler pesado?",
+    "não é só bebida: lanche também vai",
+    "oferta: até 12x, 2x e 3x sem juros",
+    "checklist da viagem de carro (férias)",
+    "quarta é dia de jogo: estádio ou sofá",
+    "trilha e camping: tudo nas costas"
+  ],
+  "publicacoes": [
+    {
+      "id": "story_10h",
+      "tipo": "story",
+      "hora": "10:00",
+      "layout": "story_frase",
+      "foto": "homem_cooler_pesado",
+      "titulo": "Ainda carregando cooler assim?",
+      "destaque": "tem jeito mais leve 🎒",
+      "texto": "A CoolerBag vai nas costas e deixa suas mãos livres.",
+      "cta": "Link na bio 👆"
+    },
+    {
+      "id": "story_12h",
+      "tipo": "story",
+      "hora": "12:00",
+      "layout": "story_foto",
+      "foto": "interior_latas",
+      "titulo": "Não é só bebida:",
+      "destaque": "lanche também vai 🥪",
+      "texto": "Frutas e sanduíches em embalagens fechadas vão no compartimento térmico.",
+      "cta": "Conheça no link da bio 👆",
+      "foco": "90%"
+    },
+    {
+      "id": "story_18h",
+      "tipo": "story",
+      "hora": "18:00",
+      "layout": "story_oferta",
+      "foto": "preta_limao_gelo",
+      "foco": "45%",
+      "titulo": "Parcele em até 12x",
+      "destaque": "2x e 3x sem juros.",
+      "prefixo": "a partir de",
+      "preco": "169,90",
+      "chips": [
+        "Frete grátis",
+        "3% off no PIX",
+        "Nota 5,0 ⭐"
+      ],
+      "cta": "Garanta a sua no link da bio 👆"
+    },
+    {
+      "id": "feed_10h",
+      "tipo": "carrossel",
+      "hora": "10:00",
+      "legenda": "Checklist da viagem de carro 🚗☀️\n\nFérias chegando? Antes de pegar a estrada, confere:\n\n🧊 Bebidas já geladas e bastante gelo ou placas térmicas\n🥪 Lanches em embalagens fechadas no compartimento térmico\n🌴 Mochila fechada, em pé e longe do sol durante a viagem\n🎒 Chegou? Vai nas costas e as mãos ficam livres para o resto\n\nSalva para as férias 📌\n\nPraia 🏖️ ou serra ⛰️? Responde com o emoji 👇\n\n👉 Link na bio\n\n#coolerbag #sportech #mochilatermica #viagemdecarro #ferias #pegaraestrada #verao",
+      "slides": [
+        {
+          "layout": "capa",
+          "foto": "preta_fundo_branco",
+          "titulo": "Checklist da viagem",
+          "destaque": "de carro 🚗",
+          "texto": "Salva para as férias 📌"
+        },
+        {
+          "layout": "foto_numero",
+          "numero": 1,
+          "foto": "gelo_caindo_mochila",
+          "foco": "40%",
+          "titulo": "Tudo já gelado",
+          "texto": "Saia de casa com as bebidas geladas e capriche no gelo ou nas placas térmicas."
+        },
+        {
+          "layout": "foto_numero",
+          "numero": 2,
+          "foto": "bebidas_gelo_close",
+          "titulo": "Lanches bem fechados",
+          "texto": "Sanduíches e frutas em embalagens fechadas vão junto das bebidas."
+        },
+        {
+          "layout": "foto_numero",
+          "numero": 3,
+          "foto": "interior_latas",
+          "foco": "50%",
+          "titulo": "Em pé e longe do sol",
+          "texto": "Na estrada, deixe a mochila fechada e na sombra. Abra só quando precisar."
+        },
+        {
+          "layout": "foto_numero",
+          "numero": 4,
+          "foto": "homem_praia_costas",
+          "titulo": "Chegou? Vai nas costas",
+          "texto": "Mãos livres para a cadeira, o guarda-sol e as crianças."
+        },
+        {
+          "layout": "cta",
+          "titulo": "Praia 🏖️ ou serra ⛰️?",
+          "destaque": "Salva para as férias 📌",
+          "foto": "cooler_vs_coolerbag_praia"
+        }
+      ]
+    },
+    {
+      "id": "feed_17h",
+      "tipo": "post",
+      "hora": "17:00",
+      "layout": "post_frase",
+      "foto": "cinza_fundo_branco",
+      "titulo": "Quarta é dia de jogo ⚽",
+      "destaque": "Estádio ou sofá?",
+      "texto": "Bebidas geladas e petiscos numa mochila só.",
+      "legenda": "Quarta à noite é dia de jogo ⚽🔥\n\nSeja na arquibancada ou no sofá com a galera, a CoolerBag resolve:\n\n🧊 Compartimento térmico para bebidas e petiscos\n🎒 Visual de mochila comum, vai nas costas\n📱 Bolsos externos para celular e chaves\n🚚 Frete grátis, a partir de R$ 169,90\n\nEstádio 🏟️ ou sofá 📺? Responde com o emoji 👇\n\n👉 Link na bio\n\n#coolerbag #sportech #mochilatermica #futebol #diadejogo #resenha"
+    },
+    {
+      "id": "feed_20h",
+      "tipo": "post",
+      "hora": "20:00",
+      "layout": "post_foto",
+      "foto": "bolso_lateral_garrafa",
+      "foco": "40%",
+      "titulo": "Trilha, camping, cachoeira:",
+      "destaque": "tudo nas costas 🏕️",
+      "texto": "Bebidas e lanches no térmico, garrafinha no bolso lateral.",
+      "legenda": "Rolê na natureza pede mãos livres 🥾🌿\n\nNa trilha ou no camping, a CoolerBag leva tudo nas costas:\n\n🧊 Compartimento térmico para bebidas e lanches\n💧 Bolsos laterais de tela para a garrafinha\n📱 Bolsos externos para celular e chaves\n🙌 Mãos livres para subir, descer e montar a barraca\n\nTrilha 🥾 ou cachoeira 💦? Responde com o emoji 👇\n\n👉 Link na bio\n\n#coolerbag #sportech #mochilatermica #trilha #camping #cachoeira #aventura"
+    }
+  ]
+}

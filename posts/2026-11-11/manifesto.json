@@ -1,0 +1,84 @@
+[
+  {
+    "id": "story_10h",
+    "tipo": "story",
+    "hora": "10:00",
+    "legenda": "",
+    "media": [
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-11/story_10h.png"
+    ],
+    "arquivos": [
+      "story_10h.png"
+    ]
+  },
+  {
+    "id": "story_12h",
+    "tipo": "story",
+    "hora": "12:00",
+    "legenda": "",
+    "media": [
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-11/story_12h.png"
+    ],
+    "arquivos": [
+      "story_12h.png"
+    ]
+  },
+  {
+    "id": "story_18h",
+    "tipo": "story",
+    "hora": "18:00",
+    "legenda": "",
+    "media": [
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-11/story_18h.png"
+    ],
+    "arquivos": [
+      "story_18h.png"
+    ]
+  },
+  {
+    "id": "feed_10h",
+    "tipo": "carrossel",
+    "hora": "10:00",
+    "legenda": "Checklist da viagem de carro 🚗☀️\n\nFérias chegando? Antes de pegar a estrada, confere:\n\n🧊 Bebidas já geladas e bastante gelo ou placas térmicas\n🥪 Lanches em embalagens fechadas no compartimento térmico\n🌴 Mochila fechada, em pé e longe do sol durante a viagem\n🎒 Chegou? Vai nas costas e as mãos ficam livres para o resto\n\nSalva para as férias 📌\n\nPraia 🏖️ ou serra ⛰️? Responde com o emoji 👇\n\n👉 Link na bio\n\n#coolerbag #sportech #mochilatermica #viagemdecarro #ferias #pegaraestrada #verao",
+    "media": [
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-11/feed_10h_1.png",
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-11/feed_10h_2.png",
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-11/feed_10h_3.png",
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-11/feed_10h_4.png",
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-11/feed_10h_5.png",
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-11/feed_10h_6.png"
+    ],
+    "arquivos": [
+      "feed_10h_1.png",
+      "feed_10h_2.png",
+      "feed_10h_3.png",
+      "feed_10h_4.png",
+      "feed_10h_5.png",
+      "feed_10h_6.png"
+    ]
+  },
+  {
+    "id": "feed_17h",
+    "tipo": "post",
+    "hora": "17:00",
+    "legenda": "Quarta à noite é dia de jogo ⚽🔥\n\nSeja na arquibancada ou no sofá com a galera, a CoolerBag resolve:\n\n🧊 Compartimento térmico para bebidas e petiscos\n🎒 Visual de mochila comum, vai nas costas\n📱 Bolsos externos para celular e chaves\n🚚 Frete grátis, a partir de R$ 169,90\n\nEstádio 🏟️ ou sofá 📺? Responde com o emoji 👇\n\n👉 Link na bio\n\n#coolerbag #sportech #mochilatermica #futebol #diadejogo #resenha",
+    "media": [
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-11/feed_17h.png"
+    ],
+    "arquivos": [
+      "feed_17h.png"
+    ]
+  },
+  {
+    "id": "feed_20h",
+    "tipo": "post",
+    "hora": "20:00",
+    "legenda": "Rolê na natureza pede mãos livres 🥾🌿\n\nNa trilha ou no camping, a CoolerBag leva tudo nas costas:\n\n🧊 Compartimento térmico para bebidas e lanches\n💧 Bolsos laterais de tela para a garrafinha\n📱 Bolsos externos para celular e chaves\n🙌 Mãos livres para subir, descer e montar a barraca\n\nTrilha 🥾 ou cachoeira 💦? Responde com o emoji 👇\n\n👉 Link na bio\n\n#coolerbag #sportech #mochilatermica #trilha #camping #cachoeira #aventura",
+    "media": [
+      "https://raw.githubusercontent.com/sportech338/sportech-posts/main/posts/2026-11-11/feed_20h.png"
+    ],
+    "arquivos": [
+      "feed_20h.png"
+    ]
+  }
+]
