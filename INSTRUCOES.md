@@ -21,7 +21,8 @@ O dono quer **tudo 100% automático**. Não peça aprovação, não deixe posts 
 ### 1. Preparar
 1. Anexe o repositório com permissão de escrita (add_repo: owner `sportech338`, repo `sportech-posts`, access `push`). Clone com `git clone --depth 1` e entre na pasta. Se o clone for raso, rode `git pull` antes de mexer.
 2. Descubra a data-alvo no fuso de São Paulo. Se a execução acontecer **antes das 9h30**, a data-alvo é **hoje**. Se for depois, a data-alvo é **amanhã**, para não agendar no passado.
-3. Use o Metricool (getScheduledPosts, brandId 7908479, da data-alvo 00:00 até 23:59) para checar o que já está agendado. Se já houver publicações não-rascunho nos horários da rotina, **não duplique**. Agende só o que falta e explique isso no resumo.
+3. **Confira se os posts dos últimos 2 dias foram publicados.** Use getScheduledPosts de anteontem 00:00 até hoje 23:59 e veja o `status` de cada post. Se algum estiver como `ERROR`, **pare a rotina**: não gere nem agende nada, mande uma notificação ao dono com o `detailedStatus` exato (por exemplo "You have reached your Metricool account limit.") e encerre. O plano grátis do Metricool só publica 20 posts por mês, com o limite zerando no dia 1.
+4. Use o Metricool (getScheduledPosts, brandId 7908479, da data-alvo 00:00 até 23:59) para checar o que já está agendado. Se já houver publicações não-rascunho nos horários da rotina, **não duplique**. Agende só o que falta e explique isso no resumo.
 
 ### 2. Tipo do dia
 Calcule o **dia do ano** da data-alvo (1 a 366).
