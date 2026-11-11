@@ -270,6 +270,60 @@
           "metricool_id": 422919893
         }
       ]
+    },
+    {
+      "data": "2026-11-11",
+      "dia_tipo": "B",
+      "publicacoes": [
+        {
+          "hora": "10:00",
+          "tipo": "story",
+          "layout": "story_frase",
+          "tema": "ainda carregando cooler pesado?",
+          "foto": "homem_cooler_pesado",
+          "metricool_id": 424192439
+        },
+        {
+          "hora": "12:00",
+          "tipo": "story",
+          "layout": "story_foto",
+          "tema": "não é só bebida: lanche também vai",
+          "foto": "interior_latas",
+          "metricool_id": 424192455
+        },
+        {
+          "hora": "18:00",
+          "tipo": "story",
+          "layout": "story_oferta",
+          "tema": "oferta: até 12x, 2x e 3x sem juros",
+          "foto": "preta_limao_gelo",
+          "metricool_id": 424192476
+        },
+        {
+          "hora": "10:00",
+          "tipo": "carrossel",
+          "layout": "capa+foto_numero+cta",
+          "tema": "checklist da viagem de carro (férias, salvável)",
+          "foto": "preta_fundo_branco",
+          "metricool_id": 424192765
+        },
+        {
+          "hora": "17:00",
+          "tipo": "post",
+          "layout": "post_frase",
+          "tema": "quarta é dia de jogo: estádio ou sofá",
+          "foto": "cinza_fundo_branco",
+          "metricool_id": 424192779
+        },
+        {
+          "hora": "20:00",
+          "tipo": "post",
+          "layout": "post_foto",
+          "tema": "trilha e camping: tudo nas costas",
+          "foto": "bolso_lateral_garrafa",
+          "metricool_id": 424192798
+        }
+      ]
     }
   ]
 }
