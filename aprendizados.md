@@ -6,6 +6,7 @@ A rotina diária segue estas regras, e elas têm prioridade sobre as sugestões 
 
 ### Bloqueio atual: limite do plano grátis do Metricool
 - Desde 09/11 às 12h **todas** as publicações deram erro "You have reached your Metricool account limit." Nada foi publicado de 10/11 a 22/11 (semanas 2 e 3 sem conteúdo novo).
+- **Até 30/11 a rotina diária não gera nem agenda nada**, mesmo que os últimos 2 dias não tenham posts com `ERROR` (desde 12/11 nada foi agendado, então a checagem do passo 3 volta vazia). Agendar antes de 01/12 só gera novos erros de limite.
 - O limite zera no dia **01/12**. Com 6 publicações por dia, a cota de 20 acaba em ~3 dias (até 03/12). A regra do passo 3 da rotina diária (parar e avisar quando houver `ERROR`) continua valendo.
 - Enquanto o plano for o grátis, ao recomeçar em 01/12 agende **primeiro o carrossel das 10h** e depois o restante, para o conteúdo mais forte sair antes de a cota acabar.
 
